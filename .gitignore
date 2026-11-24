@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+petrotext_env/
+
+# Research datasets
+data/*.csv
+data/
+
+# Saved machine learning models
+*.joblib
+*.pt
+models/
+
+# Local files
+.env
+.DS_Store
